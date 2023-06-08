@@ -1,0 +1,29 @@
+﻿services:
+  youtubeservice:
+    image: youtubeservice
+    ports:
+      - "4201:80"
+    build:
+      context: .
+      dockerfile: Microservices/YouTubeService/Dockerfile
+  chatgptservice:
+    image: chatgptservice
+    ports:
+      - "4202:80"
+    build:
+      context: .
+      dockerfile: Microservices/ChatGPTService/Dockerfile
+  subtitleservice:
+    image: subtitleservice
+    ports:
+      - "4203:80"
+    build:
+      context: .
+      dockerfile: Microservices/SubtitleService/Dockerfile
+  frontend:
+    image: dockerized-react
+    ports:
+      - "3000:3000"
+    build:
+      context: .
+      dockerfile: kino-search-front/Dockerfile 

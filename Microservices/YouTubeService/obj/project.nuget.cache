@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q4SlJfizDnMVhxTLwjzEapcYqfSnzGYSF00xs0X6pNAUrCfMVLVq+fB80jTWhnS3PosvVvvLmohaOQU/r7IZwA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KamilNazmiev\\Desktop\\repos\\KinoSearch\\Microservices\\YouTubeService\\YouTubeService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KamilNazmiev\\.nuget\\packages\\google.apis\\1.60.0\\google.apis.1.60.0.nupkg.sha512",
+    "C:\\Users\\KamilNazmiev\\.nuget\\packages\\google.apis.auth\\1.60.0\\google.apis.auth.1.60.0.nupkg.sha512",
+    "C:\\Users\\KamilNazmiev\\.nuget\\packages\\google.apis.core\\1.60.0\\google.apis.core.1.60.0.nupkg.sha512",
+    "C:\\Users\\KamilNazmiev\\.nuget\\packages\\google.apis.youtube.v3\\1.60.0.3064\\google.apis.youtube.v3.1.60.0.3064.nupkg.sha512",
+    "C:\\Users\\KamilNazmiev\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\KamilNazmiev\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\KamilNazmiev\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\KamilNazmiev\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\KamilNazmiev\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\KamilNazmiev\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\KamilNazmiev\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
